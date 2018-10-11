@@ -1,0 +1,11 @@
+﻿.idea/
+.vs/
+packages/
+bin/
+obj/
+*.user
+UpgradeLog*.htm
+app.config
+App.config
+web.config
+Web.config
